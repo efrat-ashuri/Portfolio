@@ -24,7 +24,7 @@
 ✅ צד לקוח: HTML, CSS, JavaScript  
 ✅ צד שרת: Node.js + Express  
 ✅ כולל טפסים חכמים, ניווט חלק, וחוויית משתמש מעוצבת  
-🔗 [לצפייה בקוד >>](https://github.com/efrat-ashuri/flight-booking-site)
+🔗 [לצפייה בקוד >>](https://github.com/efrat-ashuri/FlightBookingSystem)
 
 ---
 
