@@ -49,9 +49,9 @@ A group project built during my studies in the Ministry of Labor and Kama-Tech p
 
 ## Contact
 
-Feel free to reach out via GitHub or email for collaboration or questions.
 
-efratas3400@gmail.com
+[efratas3400@gmail.com](mailto:efratas3400@gmail.com)
+
 0583253400
 
 
