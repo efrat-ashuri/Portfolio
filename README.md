@@ -51,7 +51,6 @@ A group project built during my studies in the Ministry of Labor and Kama-Tech p
 
 
 [efratas3400@gmail.com](mailto:efratas3400@gmail.com)
-
 0583253400
 
 
