@@ -19,12 +19,7 @@ Features include registration, resume submission, compatibility analysis based o
 
 ---
 
-### Flight Booking System (2024)  
-A responsive web application for booking flights with a user-friendly interface.  
-**Frontend**: HTML, CSS, JavaScript  
-**Backend**: Node.js, Express  
-**Features**: Smart forms, smooth navigation, and a clean user experience  
-[View code >>](https://github.com/efrat-ashuri/FlightBookingSystem)
+
 
 ---
 
