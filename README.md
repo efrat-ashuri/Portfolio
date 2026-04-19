@@ -24,10 +24,19 @@ Features include registration, resume submission, compatibility analysis based o
 ---
 
 ### Practicum – Learning Management System (2025)  
-A group project built during my studies in the Ministry of Labor and Kama-Tech program, in collaboration with Extra Tech.  
-**Technologies**: Event Sourcing using PostgreSQL and Marten  
-**Features**: Event storage, historical data tracking, and advanced query interface  
-[View code >>](https://github.com/ExtraTechLtd/BSDFlow)
+Group project developed במסגרת KamaTech program in collaboration with Extra Tech.
+Implemented Event Sourcing architecture using PostgreSQL and Marten.
+Contributed to backend development, including event storage logic and querying mechanisms.
+
+Key contributions:
+
+* Developed API endpoints for event storage and retrieval
+* Implemented querying logic for historical data
+* Participated in database integration and system design discussions
+
+*Note: Code is not publicly available due to project restrictions.*
+
+
 
 ---
 
