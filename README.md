@@ -24,7 +24,7 @@ Features include registration, resume submission, compatibility analysis based o
 ---
 
 ### Practicum – Learning Management System (2025)  
-Group project developed במסגרת KamaTech program in collaboration with Extra Tech.
+Group project developed in KamaTech program in collaboration with Extra Tech.
 Implemented Event Sourcing architecture using PostgreSQL and Marten.
 Contributed to backend development, including event storage logic and querying mechanisms.
 
@@ -42,12 +42,18 @@ Key contributions:
 
 ## Core Technologies
 
-- React, TypeScript, Redux  
-- C# .NET Core, Entity Framework  
-- SQL Server, PostgreSQL  
-- HTML, CSS, JavaScript  
-- Node.js, Express  
-- Git, GitHub, Postman, VS Code
+**Frontend:**
+React, HTML, CSS, JavaScript
+
+**Backend:**
+C# .NET Core, Entity Framework, Node.js
+
+**Databases:**
+SQL Server, PostgreSQL, MongoDB
+
+**Tools:**
+Git, GitHub, Postman, VS Code
+
 
 ---
 
